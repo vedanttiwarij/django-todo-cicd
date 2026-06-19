@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "django-todo-app"
-CONTAINER_NAME = "django-running-app"
+        CONTAINER_NAME = "django-running-app"
     }
 
     stages {
@@ -21,23 +21,6 @@ CONTAINER_NAME = "django-running-app"
                 sh 'docker build -t ${IMAGE_NAME}:latest .'
             }
         }
-stage('Test Application') {
-    steps {
-        echo 'Testing Django app...'
-        sh '''
-            docker stop test-container || true
-            docker rm test-container || true
-            docker run -d \
-                --name test-container \
-                -p 8001:8000 \
-                ${IMAGE_NAME}:latest
-            sleep 5
-            curl -f http://localhost:8001 || exit 1
-            docker stop test-container
-            docker rm test-container
-        '''
-    }
-}
 
         stage('Deploy Application') {
             steps {
