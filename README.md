@@ -83,5 +83,5 @@ App URL: http://98.81.131.42:8000/todos/
 DevOps Engineer | AWS | Docker | Jenkins
 [LinkedIn](www.linkedin.com/in/
 vedanttiwarij
-Vanity URL name
+
 ) | [GitHub](https://github.com/vedanttiwarij)
