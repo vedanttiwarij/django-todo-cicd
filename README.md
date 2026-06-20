@@ -21,9 +21,7 @@ App Live in 60 seconds
 
 ## 🏗️ Architecture
 
-<img width="1920" height="1080" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/7ad41101-4246-45fc-b07d-6cdd6588c599" />
-<img width="1920" height="1080" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/02c52b60-dfde-45cb-97c8-f13f03942781" />
-
+<img width="2720" height="2080" alt="django_cicd_architecture" src="https://github.com/user-attachments/assets/e4c3a9fd-e990-4258-8c74-a79ebbc2e2ac" />
 
 ---
 
@@ -52,10 +50,13 @@ App Live in 60 seconds
 ## 📸 Screenshots
 
 ### Jenkins Pipeline — Green ✅
-[Add Jenkins screenshot]
+<img width="1920" height="1080" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/8a6e2b6c-60f5-4b79-9964-10e69ba4dc82" />
+
 
 ### Live App on AWS ✅
-[Add app screenshot]
+<img width="1920" height="1080" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/f30846e8-db74-4dfc-a5f7-10583634024e" />
+
+
 
 ---
 
