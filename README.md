@@ -21,7 +21,9 @@ App Live in 60 seconds
 
 ## 🏗️ Architecture
 
-[Add your architecture screenshot here]
+<img width="1920" height="1080" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/7ad41101-4246-45fc-b07d-6cdd6588c599" />
+<img width="1920" height="1080" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/02c52b60-dfde-45cb-97c8-f13f03942781" />
+
 
 ---
 
